@@ -7,7 +7,7 @@ require (
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/mattn/go-sqlite3 v1.14.5
 	github.com/pkg/errors v0.9.1
-	github.com/shopspring/decimal v1.2.0
+	github.com/shopspring/decimal v1.3.0
 	github.com/stretchr/testify v1.6.1
 	golang.org/x/net v0.0.0-20200707034311-ab3426394381
 )
