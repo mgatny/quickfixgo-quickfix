@@ -6,7 +6,7 @@ require (
 	github.com/armon/go-proxyproto v0.1.0
 	github.com/mattn/go-sqlite3 v1.14.18
 	github.com/pkg/errors v0.9.1
-	github.com/shopspring/decimal v1.3.1
+	github.com/shopspring/decimal v1.4.0
 	github.com/stretchr/testify v1.8.4
 	go.mongodb.org/mongo-driver v1.13.0
 	golang.org/x/net v0.18.0
